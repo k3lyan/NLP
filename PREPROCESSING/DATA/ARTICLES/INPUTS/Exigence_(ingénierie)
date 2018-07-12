@@ -1,0 +1,122 @@
+En ingénierie, et plus particulièrement dans les procédures d'appel d'offres publiques et privées, les exigences sont l'expression d'un besoin documenté sur ce qu'un produit ou un service particuliers devraient être ou faire. Elles sont le plus souvent utilisées dans un sens formel dans l'ingénierie des systèmes et dans l'ingénierie logicielle.
+Dans l'approche classique de l'ingénierie, les exigences sont considérées comme des prérequis pour les étapes de conception et de développement d'un produit.
+La phase de développement des exigences peut avoir été précédée par une étude de faisabilité, ou une phase d'analyse conceptuelle du projet. La phase d'exigences peut être décomposée en :
+Mettre à jour les exigences : rassembler les exigences des parties prenantes ;
+Analyser : vérifier la cohérence et l'exhaustivité ;
+Définir : écrire les exigences sous une forme aisément compréhensible pour les utilisateurs et les développeurs ;
+Spécifier : créer une interaction initiale entre les exigences et la conception.
+
+Exigences dans l'ingénierie système et logiciel
+Distinguer plusieurs sortes d'exigences fonctionnelles
+Dans l'ingénierie système, une exigence peut être la description de ce qu'un système doit faire. Ce type d'exigence spécifie quelque chose que le système livré doit être capable de faire. Un autre type d'exigence spécifie quelque chose sur le système lui-même, et de quelle manière il exécute ses fonctions. De telles exigences s'appellent souvent « exigences non fonctionnelles », « exigences de performance » ou « exigences de qualité de service ». Exemples de ce type d'exigences : la disponibilité, la testabilité, la facilité de maintenance et la facilité d'utilisation.
+Un ensemble d'exigences définit les caractéristiques ou propriétés du système désiré (exigé). Une « bonne » liste d'exigences évite de spécifier la manière pour le système de mettre en œuvre ces exigences, laissant ce genre de décision pour les activités de conception. Un élément parmi les exigences qui décrit comment mettre en œuvre le système s'appelle un biais.
+En ingénierie logicielle, la même signification d'« exigences » est utilisée, à la différence près que l'attention se porte sur le logiciel lui-même.
+
+Exigences produit & exigences de processus
+Les projets sont soumis à trois sortes d'exigences :
+Les exigences métier (en anglais en:Business requirements) qui décrivent le quoi dans les termes du métier. Elles décrivent ce qui doit être fourni ou réalisé pour produire de la valeur.
+Les exigences produit qui décrivent le produit ou le système à un haut niveau. Elles répondent aux exigences métier et sont couramment formulées comme les fonctionnalités que le système doit réaliser. On les appelle également exigences fonctionnelles ou spécifications fonctionnelles.
+Les exigences de processus qui décrivent le comment. Ces exigences prescrivent les processus que l'on doit suivre et les contraintes auxquelles on doit se conformer pour la réalisation du système. Dans ce cas, on trouve par exemple des exigences de sécurité, d'assurance qualité, ou de management.
+Les exigences produit et de processus sont liées. Les exigences de processus sont souvent imposées pour atteindre les exigences produit de haut niveau. Par exemple un coût maximum de développement (qui est une exigence de processus) peut être imposé afin d'atteindre une exigence sur le prix de vente minimum (qui est une exigence produit). Une exigence de maintenabilité du produit (exigence produit) est souvent accompagnée d'exigences de suivre un certain style de programmation (exigence de processus) telles que la programmation orientée objet, les motifs de conception ou encore le respect de charte de nommage.
+Les trois types d'exigences sont vitales pour tout développement de système.
+
+Quelques facteurs pour une bonne définition des exigences
+Classification
+Les exigences sont classées généralement en trois catégories :
+1) Exigences fonctionnelles - Elles décrivent les caractéristiques du système ou des processus que le système doit exécuter. On trouve dans cette catégorie les règles métier
+2) Exigences non fonctionnelles - Elles décrivent les propriétés que le système doit avoir ; par exemple les exigences techniques de sécurité informatique (confidentialité, intégrité, disponibilité), de performance, d'accessibilité, selon des critères définis,
+3) Contraintes - Les limites du développement en quelque sorte : comme définir un système d'exploitation sur lequel le système doit fonctionner, ou définir quel langage de programmation doit être utilisé pour mettre en œuvre le système.
+Les exigences sont notoirement difficiles à présenter à un niveau idéal. Souvent, des experts (voir en:expert users) sont employés pour établir la relation entre les utilisateurs et les développeurs. Ces experts sont en principe capables d'exprimer des exigences fonctionnelles d'une façon qui soit facilement interprétable dans les caractéristiques de conception du système, et de plus compréhensible par les utilisateurs finaux.
+
+Qualité des exigences
+De bonnes exigences doivent être  :
+Nécessaires – Elles doivent porter sur des éléments nécessaires, c'est-à-dire des éléments importants du système que d'autres composants du système ne pourraient pas compenser.
+Non ambigües – Elles doivent être susceptibles de n'avoir qu'une seule interprétation.
+Concises – Elles doivent être énoncées dans un langage qui soit précis, bref et agréable à lire, et qui de plus communique l'essence de ce qui est exigé.
+Cohérentes – Elles ne doivent pas contredire d'autres exigences établies, ni être contredites par d'autres exigences. De plus, elles doivent, d'un énoncé d'exigence au suivant, utiliser des termes et un langage qui signifie la même chose.
+Complètes – Elles doivent être énoncées entièrement en un endroit et d'une façon qui ne force pas le lecteur à regarder un texte supplémentaire pour savoir ce que l'exigence signifie.
+Accessibles – Elles doivent être réalistes quant aux moyens mis en œuvre en termes d'argent disponible, avec les ressources disponibles, dans le temps disponible.
+Vérifiables – Elles doivent permettre de déterminer si elles ont été atteintes ou non selon l'une de quatre méthodes possibles : inspection, analyse, démonstration, ou test.
+La qualité des exigences peut être évaluée par revue (relecture par des pairs) ou par des outils de vérification de la qualité des exigences. Selon le formalisme utilisé pour exprimer les exigences (langage naturel, modèles formels ou semi-formels...) les outils seront capables de détecter certaines erreurs :
+Erreurs de syntaxe
+Incohérences
+Ambiguïtés
+
+Aptitude aux tests
+La plupart des exigences doivent être vérifiables par des tests. Si ce n'est pas possible, une autre méthode de vérification doit pouvoir être utilisée (par exemple, analyse, inspection, ou analyse de la méthode de conception). Des exigences testables sont une composante importante de la validation.
+Certaines exigences, de par leur structure même, ne sont pas testables. Elles comprennent par exemple les exigences qui disent que le système ne montrera jamais ou qu'il montrera toujours telle propriété. Un test adéquat d'une telle exigence demanderait une infinité de cycles de test. Ce genre d'exigence est souvent réécrit en donnant une période de temps finie et réaliste.
+Des exigences non-fonctionnelles non-testables peuvent être gardées comme documentation à l'usage des clients ; cependant, elles sont habituellement liées à des exigences de processus destinées à être un moyen pratique de les obtenir.
+Par exemple, on peut satisfaire une exigence non-fonctionnelle consistant à s'affranchir des portes dérobées (backdoors) en la remplaçant par une exigence de processus qui utilise la programmation en binôme. Les logiciels d'avionique avec leurs exigences complexes de sûreté doivent suivre le processus de développement DO-178B.
+L'aptitude aux tests consiste essentiellement à donner de la clarté, qui est effectivement nécessaire mais peut détourner l'attention par rapport à d'autres problèmes importants. Une exigence peut être apte aux tests mais incorrecte ; et l'évaluation de l'aptitude aux tests ne détectera souvent pas des exigences incorrectes. De plus, l'aptitude aux tests n'a pas de sens par rapport à une exigence qui a été ignorée. La pure analyse, l'inspection, ou la revue seules pourront répondre à ces problèmes mais généralement plus faiblement qu'on ne le fait habituellement. Il y a plus de 21 moyens plus puissants de tester ou d'évaluer l'adéquation d'exigences et plus de 15 moyens de renforcer les tests ou l'évaluation du bien-fondé d'une conception.[réf. nécessaire]
+
+Processus de développement des exigences
+Rédaction des exigences
+Les exigences doivent être écrites de telle manière qu'elles orientent la création et la modification d'un système selon les règles métier (ou règles de gestion) appropriées au contexte et au domaine et dans lequel le système doit être utilisé.
+Les systèmes doivent normalement se conformer au domaine d'activité dans lequel ils sont exploités.
+
+Analyse des exigences
+Les exigences sont sujettes à des problèmes d'ambiguïté, d'imperfections, et d'incohérence. Des techniques telles qu'une inspection de logiciel rigoureuse ont été présentées pour aider à traiter de tels problèmes. Lorsque les ambiguïtés, les imperfections, et les incohérences sont résolues dans la phase d'exigences, l'ordre de grandeur du coût de correction est moins élevé que lorsque ces mêmes problèmes se retrouvent dans des étapes ultérieures de développement du produit. L'analyse des exigences s'efforce de résoudre ces problèmes.
+Il y a une distinction en ingénierie entre les exigences qui sont trop vagues, et celles qui sont si détaillées qu'elles :
+prennent du temps à être rédigées,
+commencent à limiter les options de mise en œuvre disponibles,
+sont coûteuses à produire.
+
+Changements dans les exigences
+Avec le temps, les exigences peuvent évoluer : c'est ce qui est pris en compte dans les re conception de mi-vie d'un produit.
+De même durant un projet, un cahier des charges peut être revu. Dans ce cas, la modification du cahier des charges contractuel fait l'objet d'un avenant au contrat.
+Dans tous les cas, une fois les exigences définies et approuvées, elles doivent être gérées, vérifiées (contrôle qualité) et suivies (Contrôle des modifications en:change control). Dans le cas de projets difficiles, des exigences peuvent être ne pas être atteintes ou peuvent être altérées avant que le système ne soit terminé. Cette caractéristique des exigences a conduit à des études et des pratiques sur la gestion des exigences (en:Requirements Management).
+
+Cas de l'ingénierie informatique
+Vocabulaire spécifique
+En ingénierie informatique, les exigences sont traditionnellement de trois types appelés : spécifications générales, spécifications détaillées, et spécifications techniques. On retrouve sensiblement les trois types d'exigences métier, produit, et processus.
+
+Débats concernant la nécessité de la rigueur dans les exigences logicielles
+Des méthodologies modernes en ingénierie logicielle comme l'Extreme programming posent la question du besoin de décrire rigoureusement les exigences logicielles, qu'elles considèrent comme un objectif mouvant.
+Ces méthodologies décrivent les exigences d'une façon informelle, en utilisant des retours d'expérience (REX), qui peuvent être appelés dans certains cas « user stories » (résumés concis relatifs à une page indexée qui explique un aspect de ce que le système devrait faire), et composée d'une série de cas de tests de validation pour ces retours d'expérience.
+La typologie d'utilisation des systèmes doit diriger vers telle ou telle méthode. Un système de pilotage automatique d'avion ne pourra pas être développé par retour d'expérience utilisateur. D'autre part, un site web dynamique dont on ignore encore le public avant sa conception ne pourra pas faire l'objet d'exigences métiers formulées.
+
+Un exemple d'exigence : la langue
+Les exigences formulées dans le cadre d'un appel d'offre pour l'achat et la mise en œuvre d'un progiciel peuvent inclure des critères relatifs à la langue du progiciel.
+En France, il existe un dispositif réglementaire qui impose aux services et établissements publics de l'État d'utiliser les termes de la langue française publiés au Journal officiel dans tous les documents administratifs (articles 11 et 12 du décret du 3 juillet 1996 relatif à l'enrichissement de la langue française).
+
+Logiciels
+Il existe de nombreux outils de gestion des exigences.
+La plupart intègrent le référentiel, c'est-à-dire que les exigences sont rédigées, enregistrées et maintenues dans le format propriétaire du logiciel:
+Objectiver de l'éditeur Respect-IT
+Integrity lié avec Windchill PDMLink de l'éditeur PTC
+Accept 360°
+CaliberRM
+Compuware Optimal Trace
+IBM Rational DOORS
+Envision Requirements
+GenSpec
+IBM Rational RequisitePro
+LDRA TBreq
+Polarion REQUIREMENTS
+PowerAMC intègre un outil de gestion d'exigences qui fonctionne avec Microsoft Office
+Projet2Team intègre un outil de gestion d'exigences qui permet d'importer les cahiers des charges depuis Microsoft Word
+Serena Dimensions RM
+Un wiki (TWiki, XWiki, etc)
+UProm
+Visure IRQA
+Requirements Quality Analyzer (RQA)
+Semios for requirements, analyse la qualité des exigences et alerte le rédacteur sur des problèmes de compréhension possibles
+Certains outils exploitent un référentiel externe, la plupart du temps sous la forme de documents WORD ou PDF:
+Reqtify
+Reqchecker, identifie les problèmes de compréhension possibles, génère la matrice de traçabilité et calcule l'analyse d'impact.
+ReqFlow
+
+Références
+Voir aussi
+Bibliographie
+Livre en français : Ingénierie des exigences - Méthodes et bonnes pratiques pour construire et maintenir un référentiel - Ed. Dunod 2014
+
+Articles connexes
+Règles métier
+Analyse des exigences (en:Requirements analysis)
+Cas d'utilisation en:Use case
+Gestion des exigences (en:Requirements Management)
+Spécification (informatique)
+
+Liens externes
+ Portail de la production industrielle
