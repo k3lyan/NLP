@@ -1,5 +1,5 @@
 # NLP
-This repository aimed at saving my work in the construction of a modulable Natural Langage Processing Pipeline (from raw input to visualizations). It is shaped according to 4 main sub-repositories. Each of this sub-repository represents a block of the NLP pipeline. The goal of it is to be able to navigate and test easily different configurations by varying the algorithms used in the pipeline.  
+This repository aimed at saving my work in the construction of a modulable Natural Langage Processing Pipeline (from raw inputs to visualizations). It is shaped according to 4 main sub-repositories. Each of this sub-repository represents a block of the NLP pipeline. The goal of it is to be able to navigate and test easily different configurations by varying the algorithms used in the pipeline.  
     
 PREPROCESSING >> MODELIZATION >> EXPLORATION >> VISUALIZATION
     
