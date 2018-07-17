@@ -1,7 +1,7 @@
 ## FASTTEXT EMBEDDINGS FOR COSINE SIMILARITY CALCULATIONS 
 ### Inputs:
 Nothing. But be sure that the raw_files_titles listing the absolute pathes to the documents are here. 
-For example, if you are trying to score skills in articles (our example), you should be sure that 'raw_articles_titles' and 'raw_ipma_titles' files are in the directory.
+For example, if you are trying to score skills in articles (our example), you should be sure that 'PM_paths.txt' and 'IPMA_paths.txt' files are in the directory.
 ### Outputs:
 A .csv file containing the skills scores for each articles.    
 ### Goal:
