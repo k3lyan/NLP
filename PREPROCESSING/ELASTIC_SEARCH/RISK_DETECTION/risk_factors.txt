@@ -1,0 +1,39 @@
+Difficulté à identifier les lignes budgétaires 
+Renoncements des -6% pour les PMT suivants non identifiés
+Ne pas être en capacité d'empêcher qu'un projet connexe n'aboutisse pas
+Non synchronisation du raccordement  des différents services Télécom avec la livraison du bâtiment 
+Retard de livraison du bâtiment 
+Non satisfaction des pré-requis infrastructure IT liés à l'aspect "livraison du bâtiment"
+Appels d'offres non finalisés 
+Absence de résultat pour le RFI sur le collaboratif 
+Manque de disponibilité des ressources par rapport à l'attendu
+Non anticipation de la réduction de la fenêtre de la phase de recette au fur et à mesure des retards des livraisons immobilières
+Non choix de la société fournissant les composants permettant la gestion du bâtiment intelligent
+Non complétude de la note d'engagement du CSP-IT aux attentes de la R&D 
+Besoin d'expertise de l'architecte sur plusieurs domaines rares
+Difficultés à proposer des solutions innovantes qui n'existent pas au catalogue DSP-IT
+Aspect inacceptable des demandes de la R&D vis-à-vis du critère de "sécurité du patrimoine du SI"
+Non connaissance des coûts d'exploitation des solutions proposées
+Mésusage du résultat par les utilisateurs
+Manque de certitudes dans le contenu du projet pour anticiper la conduite du changement
+Forte dépendance aux aléas du Projet 
+Pertinence du maintien d'une équipe projet SI-Saclay étant donné les retards de planning du projet 
+Difficultés de "reprise en exploitation" par la DSP de matériels retenus par la R&D
+Non notification du marché collaboratif 
+Difficultés à sécuriser l'impact du changement de messagerie/groupware
+Difficultés sur la définition du périmètre de responsabilité avec la DIG pour l'accès à la GTB
+Manque de clareté sur le partage de l'accès à la GTB par le bâtiment intelligent versus le bâtiment connecté
+Non synchronisation entre DSP-IT et le Space-Planner (ergonome du bâtiment)
+Manque de vue d'ensemble cohérente des projets assemblés dans SI-Saclay
+Retard de l'Expression de Besoin R&D sous formalisme de CdC
+Non identification du périmètre fonctionnel du coupe-feu scientifique
+Non complétude des retours d'information pour les projets de la LPP PPSI
+Méconnaissance par la DSP-IT de certaines infrastructures R&D
+Coordination difficile avec la DIG (pour la DSP-IT)
+Couverture GSM indoor non opérationnelle pour l'ouverture du site
+Le portail multi-service livré ne soit pas interfacé au SI de l'entreprise
+Solutions mises en place non conformes avec la sécurité  SI (ou absence de solutions) suite à expression des besoins pas assez précise
+Expression trop tardive de la R&D sur l'interconnexion au réseau RENATER ou autres réseaux de collecte
+Non compatibilité des besoins des amphithéâtres avec les équipements multimédia DSP-IT
+
+
