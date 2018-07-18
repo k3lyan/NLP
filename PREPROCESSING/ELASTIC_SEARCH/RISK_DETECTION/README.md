@@ -3,7 +3,7 @@ Get a file listing risks from the risk register (xlsx files).
 
 ## Indexing emails (MAILS)
 ### Input:
-* 'mail_paths', a txt file containing the absolute paths to the mails
+* 'mail_paths': a txt file containing the absolute paths to the mails
 ### Outputs:
 * 'mails.json': the JSON file containing all the indexing requests to Elasticsearch
 ### How to use:
@@ -29,10 +29,10 @@ Creates a folder 'meta_mails' containing all the emails linked to a header (=met
 #### How to use:
 `$python3 metamail_folder_builder.py': 
 ### Indexing the metamails
-#### Inputs:
-* 'header_paths' 
-* 'metamail_paths'
+#### Inputs:  
+* 'header_paths' : a txt file containing the absolute paths to the headers
+* 'metamail_paths' : a txt file containing the absolute paths to the metamails
 #### Outputs:
-* 'metamail.json'
+* 'metamail.json': the JSON file containing all the indexing requests to Elasticsearch
 ### How to use:
-
+`$python3 general_indexing.py metamail_paths header_paths`
