@@ -8,7 +8,7 @@ PREPROCESSING >> MODELIZATION >> EXPLORATION >> VISUALIZATION
 * extract to raw text    
 * tokenization    
 * filtering    
-* dataBase (Elasticsearch, neo4j,...)    
+* dataBase/ search web engine (Elasticsearch, neo4j,...)    
 * labelisation 
 * ...    
 ## MODELIZATION
