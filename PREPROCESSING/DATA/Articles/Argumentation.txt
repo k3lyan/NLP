@@ -1,0 +1,114 @@
+L’argumentation est l'action de convaincre et pousser ainsi l'autre à agir. Contrairement à la persuasion, elle vise à être comprise de tous et rechigne à utiliser des arguments fallacieux. L’argument est, en logique et en linguistique, l’ensemble des prémisses données en support à une conclusion.
+Une argumentation est composée d'une conclusion et d'un ou de plusieurs « éléments de preuve », que l'on appelle des prémisses ou des arguments, et qui constituent des raisons d'accepter cette conclusion. On distingue 3 grands groupes :
+l'art de démontrer (on s'appuie sur des faits, des preuves, une loi incontestable),
+l'art de persuader (l'émetteur fait appel au sentiment des destinataires (émouvoir, rire ou encore provoquer))
+l'art de convaincre (l'auteur fait appel à la raison du destinataire, mais sans utiliser de faits scientifiques).
+Une argumentation convaincante peut bien souvent consister à simplement énoncer un fait, afin de permettre à l'interlocuteur d'en avoir connaissance. Un argument n'est ni une démonstration, ni une preuve :
+La démonstration est une conclusion logique. Démontrer, c'est établir la vérité d'une phrase abstraite par des moyens strictement logiques.
+La preuve est une évidence concrète, empirique. Prouver, c'est montrer un objet ou causer un événement.
+Argumenter, c'est exhorter une personne à agir, en montrant que les conséquences de cette action causent un bien, éthique, matériel, physique, psychologique, économique ou autre, accepté par l'opinion générale. Par exemple, on peut démontrer que l'inflation nuit à la croissance économique, on peut prouver que la Terre est ronde. Ces conclusions deviennent des arguments quand (1) elles sont rattachées à un conseil pour déterminer une action ou (2) quand elles déterminent une action, une décision. Une démonstration change la connaissance ; une preuve change la connaissance et la perception ; un argument change une décision d'agir.
+Persuader ou convaincre, c'est modifier la décision d'agir d'une personne par des arguments.
+Ce sont les prêtres, dans les sermons, les avocats, dans les plaidoyers, les politiciens, dans les discours, les compagnies, dans les messages publicitaires, qui emploient des arguments. S'abstenir du péché et faire le bien, faire absoudre un accusé, gagner des suffrages, vendre la marchandise sont les actions souhaitées par ces communicateurs.
+L'argumentation désigne également l'échange discursif effectif par lequel des interlocuteurs tentent de défendre une position ou de faire accepter un point de vue.
+Plus largement, l'argumentation est un champ d'études à la fois descriptif et critique qui s'intéresse à la mise en forme des arguments (oralement ou par écrit) en vue, notamment, de la persuasion d'un auditoire. En ce sens, l'argumentation est une branche de la rhétorique.
+
+Évolution et définitions
+Une argumentation est jugée bonne ou mauvaise selon que les prémisses sont acceptables (logiquement ou consensuellement) et qu'elles sont jugées suffisantes pour soutenir la conclusion. Lorsqu'une argumentation n'est pas conforme à ce cadre normatif ou à certaines règles d'inférence logique, elle sera qualifiée de paralogisme (en anglais, on parle de fallacy).
+Une argumentation peut, par ailleurs, être convaincante ou non pour tel ou tel public (auditoire, selon l'ancienne rhétorique). Plusieurs facteurs peuvent faire en sorte qu'une bonne argumentation ne convainque pas quelqu'un (préjugés, intérêt personnel, manque de connaissance du domaine, aveuglement passionnel, impertinence, etc.). Ces mêmes facteurs peuvent également faire en sorte qu'une mauvaise argumentation convainque néanmoins quelqu'un ; c'est ce qu'avait déjà observé Aristote dans les Topiques et les Réfutations sophistiques.
+Selon Chaïm Perelman (Traité de l'argumentation, écrit en collaboration avec Lucie Olbrechts-Tyteca, 1959), l'argumentation est la manière de présenter et de disposer des arguments (raisonnements ou raisons avancées n'ayant pas valeur de preuve mais qui s'imposent à tout être raisonnable) à l'appui d'une thèse ou contre celle-ci, en vue d'obtenir l'adhésion par consentement d'un auditoire. Elle se démarque de la démonstration qui repose sur des faits, lesquels emportent l'adhésion par évidence devant un auditoire. La démonstration est monologique, elle est un enchaînement nécessaire de propositions, le parangon étant la démonstration mathématique, là où l'argumentation est dialogique, raisonne sur du probable, est incomplète, et donc ouverte à la réfutation.
+La distinction argumentation/démonstration, qui identifierait la démonstration au raisonnement scientifique est fragilisée. Que cela soit dans le cadre de l'épistémologie de Karl Popper ou de Thomas Samuel Kuhn, la science se caractérise par la remise en cause de ses propositions - cette remise en cause pouvant être graduelle (Karl Popper) ou révolutionnaire (Thomas Samuel Kuhn). Le doute plus que la certitude anime la science.
+Parmi les nombreuses contributions post-perelmaniennes à l'étude de l'argumentation, on retiendra notamment les travaux de :
+Stephen Toulmin (The uses of argument, 1959) ;
+Kenneth Burke (Dramatisme) ;
+Stefan Goltzberg (argumentation juridique, philosophie du droit) ;
+Georges Vignaux (approche cognitive de l'argumentation) ;
+Michel Meyer (approche philosophique, rhétorique) ;
+Marc Angenot (rhétorique du pamphlet et approche historique des schémas argumentatifs) ;
+Oswald Ducrot (approche linguistique et pragmatique) ;
+Jean-Blaise Grize (logique « naturelle ») ;
+Douglas Walton (logique informelle et étude des fallacies) ;
+Frans Van Eemeren et Rob Grootendorst (pragma-dialectique) ;
+Harald Wohlrapp (non sujette à objection « Einwandfreiheit ») ;
+Christian Plantin (approche linguistique) ;
+Jean-Michel Adam (approche textuelle)
+Ruth Amossy (approche littéraire de l'argumentation) ;
+Philippe Breton (approche communicationnelle) ;
+Marianne Doury (approche pragmatique et sémantique).
+Des approches philosophiques ont également été proposées par Karl-Otto Apel et Jürgen Habermas dans le cadre d'une théorie de l'éthique de la discussion.
+
+Typologie des arguments
+Les définitions
+Une définition est un argument qui pose une relation d'équation ou d'équivalence en vue de donner un sens à un concept. La rhétorique use alors de multiples définitions que reproduit le tableau ci-dessous :
+
+La comparaison et le distinguo
+Par opposition avec l'analogie, la « comparaison » est un argument (à distinguer donc de la figure de style du même nom) qui permet de définir ou d'exprimer une notion ou un objet en le rapprochant ou en le distinguant d'autres objets ayant une ou plusieurs propriétés en commun. On peut par exemple comparer le fonctionnement du siphon avec celui du geyser. L'argument comparatif met néanmoins de côté le contexte, en cela, c'est un argument simplificateur et manipulateur. Les discours démagogiques l'utilisent beaucoup afin d'établir des « raccourcis de pensée » (par exemple comparer la chute de l'Empire romain avec la situation américaine).
+Le « distinguo » est, a contrario, une comparaison négative. Il consiste à « définir une notion ou un objet en utilisant, pour le rejeter, un comparant inférieur ou inadéquat ». Les figures de l'antithèse et de la correction y sont courantes.
+
+L'incompatibilité
+Il s'agit de « deux assertions qui ne peuvent coexister dans un même système, sans ipso facto, se nier logiquement », comme dans la proposition un astre ne peut être à la fois une planète et une étoile. L'« incompatibilité » est un argument quasi logique à distinguer cependant de la contradiction pure selon Chaïm Perelman. Le discours scientifique ou encore les dictons reposent sur de nombreuses arguments d'incompatibilités. Jean-Jacques Robrieux distingue par ailleurs plusieurs types d'incompatibilité dans le discours rhétorique :
+l'« autophagie » (étymologiquement l'idée « se mange elle-même ») qui est « l'incompatibilité d'un principe avec ses conditions d'énonciation, ses conséquences ou ses conditions d'application » comme dans l'expression « rail de sécurité destiné aux aveugles », qui fait référence à un panneau de signalisation qu'un aveugle ne peut évidemment pas percevoir. La « rétorsion » est alors l'argument qui consiste à la mettre en évidence ;
+le tiers exclu » selon lequel si une proposition est vraie sa négation est nécessairement fausse et vice-versa.
+le « dilemme » est « une alternative qui conduit à opter pour le moindre mal » ; l'exemple littéraire reste le « dilemme cornélien » exposé dans la pièce Le Cid. Rodrigue, le héros, a le choix entre venger son père et donc tuer le père de Chimène, qu'il aime, ou laisser impuni l'offense sur son père et épouser celle qu'il aime. Dans le discours rhétorique, le « faux dilemme » est particulièrement manipulateur ; il est par ailleurs selon Jean-Jacques Robrieux « l'argument du pessimisme ».
+
+Autres arguments formels
+Provenant plus spécifiquement du raisonnement mathématique, ils sont particulièrement utilisés par la rhétorique dans des domaines controversables.
+
+Les arguments empiriques
+Ces arguments se fondent sur l'expérience. Contrairement aux arguments logiques il ne peuvent exister sans une observation du champ de la réalité (appelée « empirie »). D'après Jean-Jacques Robrieux, ils se sous-divisent en trois groupes :
+
+Les arguments fondés sur la causalité et la succession
+Les arguments fondés sur une confrontation
+Les arguments inductifs et l'analogie
+Avec ces arguments reposant sur l'induction, le raisonnement dépasse la simple analyse du réel et en propose un traitement davantage abstrait à but herméneutique.
+L'« exemple » est un argument s'appuyant sur un cas particulier et concret. C'est un argument très courant permettant d'étayer une thèse. Il peut être aussi un moyen de réfutation, on l'appelle alors le « contre-exemple ». Plus rarement, il permet de faire une preuve par l'exemple[réf. nécessaire].
+L'« illustration » permet une thèse considérée comme admise en lui donnant une apparence vivante et concrète, en frappant l'imagination. Les fables de Jean de La Fontaine sont des illustrations pédagogiques par exemple.
+Le « modèle » est un argument qui propose un personnage ou un groupe humain comme support d'identification. Très proche de l'argument d'autorité, il se concrétise en politique par le culte de la personnalité et dans la publicité à travers les allégories (la « mère Denis » par exemple). Il existe aussi un argument modèle négative, se fondant sur des « anti-modèles » à ne pas imiter (le personnage d'Harpagon de Molière pour l'avarice par exemple) ; Chaïm Perelman explique que le recours aux concepts de Dieu ou de Diable se fonde sur la rhétorique du modèle et de l'antimodèle, qui permet un raisonnement dialectique.
+L'« argument par analogie » ou « a simili » est un argument qui compare deux rapports, soit quatre termes, dans un raisonnement croisé, de type si a est à b ce que c est à d. Il s'agit donc de faire comprendre une idée en la transposant dans un autre domaine, au moyen de l'analogie et selon une certaine structure. La métaphore est une analogie poétique même si elle peut véhiculer une volonté rhétorique de persuader l'interlocuteur. Jean-Jacques Robrieux cite Aristote comme exemple d'argument analogique :
+
+« De même que les yeux de la chauve-souris sont éblouis par la lumière du jour, de même notre intelligence est éblouie par les choses les plus naturellement évidentes. »
+
+L'analogie a un rôle puissamment heuristique (qui fait découvrir une vérité) et pédagogiques, cependant, le recours à l'image permet des détournements manipulateurs (c'est le cas en science par exemple : la métaphore simplifie trop la théorie parfois).
+
+Les arguments contraignants et de mauvaise foi
+Ces types d'arguments sont hautement manipulateurs, mais à des degrés divers. Ainsi, les auteurs distinguent ceux fondés sur le bon sens, l'appel au conformisme, la ruse ou la violence. Ils sont également peu logiques. Peu étudiés au cours des siècles, Jean-Jacques Robrieux remarque qu'ils font « l'objet d'un regain d'intérêt théorique depuis quelques décennies seulement, au moment où les démocraties, le système consumériste et les médias se sont mis à les employer abondamment ». certains de ces arguments ont recours aux valeurs (ce sont les repères moraux admis par une société donnée et partagées par tous), d'autres sont plus particulièrement des ruses sophistiques destinées à gagner à tous prix le débat. Ils sont : le proverbe, les lieux communs et les questions.
+Les « proverbes » et les « maximes » permettent d'exprimer des valeurs communes ou des vérités éternelles (le présent employé est ainsi appelé « présent de vérité générale »).
+Le « bon sens » et le « normal » permettent de se mettre sous l'autorité de normes générales mais floues. Ils permettent la recherche du consensus et se présentent sous la forme de formules telles : « cela tombe sous le sens », « c'est évident que » etc.
+Le « lieux communs » sont des arguments typiques qui peuvent être employés en toutes circonstances et permettant de manipuler le discours. Il existe un nombre important de lieux communs dont le « lieu de quantité », qui fait appel au plus grand nombre (autorité des sondages, des élections) et qui prône de rejoindre la majorité. Le « lieu de qualité » est au contraire fondé sur le meilleur, l'unique et le singulier ; c'est le lieu de l'élitisme et des poètes. Chaque milieu et même chaque domaine (littéraire, artistique, scientifique et religieux) a ses lieux communs propres.
+Les « questions » sont des arguments se fondant sur l'interrogation, recherchée ou feinte, de l'interlocuteur.
+Il existe en premier lieu les « questions dialectiques » qui cherchent à persuader sans recourir à l'agressivité.
+
+Les « questions éristiques » sont elles polémiques ; elles cherchent à agresser l'interlocuteur. Le philosophe Arthur Schopenhauer en a proposé une étude précise dans L'Art d'avoir toujours raison ou Dialectique éristique (1830-1831).
+Dans le domaine de la mauvaise foi il existe un ensemble d'arguments particulièrement efficaces s'appuyant sur une déficience de logique formelle :
+
+Les arguments jouant sur le pathos
+Certains arguments ont pour but unique d'émouvoir ou de susciter la pitié. Le discours judiciaire y est particulièrement sensible, notamment lorsque l'avocat de la défense tente d'émouvoir le jury par exemple.
+
+Notes et références
+Références
+Notes
+Bibliographie
+Christian Plantin, L'argumentation, Seuil, coll. « Memo », Paris, 1996 (ISBN 2-0202-2956-0)
+Pierre Oléron, L'argumentation, PUF, coll. « Que sais-je ? », Paris, 1996 (ISBN 2-1304-5513-1)
+Gilbert Dispaux, La logique et le quotidien. Une analyse dialogique des mécanismes d'argumentation, Paris, Les Éditions de Minuit, coll. « Arguments », 1984, 188 p.
+Jean-Jacques Robrieux, Éléments de rhétorique et d'argumentation, Paris, Dunod, 1993 (ISBN 2-10001480-3)
+Olivier Reboul, Introduction à la rhétorique, Paris, Presses Universitaires de France, coll. « Premier cycle », 1991, 256 p., 15 cm x 22 cm (ISBN 2-13-043917-9)
+Ruth Amossy, L'argumentation dans le discours, Nathan, 2000 (ISBN 978-2200340766)
+Chaïm Perelman, L'Empire rhétorique, Paris, Vrin, coll. « Bibliothèque d'histoire de la philosophie », 2002, 224 p. (ISBN 2-7116-1334-8)
+John Woods, Douglas N. Walton, Critique de l’argumentation: logiques des sophismes ordinaires, Paris, Éditions Kimé, 1992 (ISBN 2908212323)
+
+Annexes
+Articles connexes
+Analyse du discours
+Discours
+Épistémologie
+Logique
+Persuasion
+Rhétorique
+Sophistique
+
+Liens externes
+[PDF] Linguistique et psychanalyse : pour une approche logiciste, pp. 88-113
+Petit recueil de 18 moisissures argumentatives pour concours de mauvaise foi
+
+ Portail de la logique
+ Portail de la philosophie

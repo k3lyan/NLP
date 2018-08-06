@@ -1,0 +1,13 @@
+Le pilotage par les livrables, ou pilotage par les résultats, est une méthode récente de gestion de projet.
+Il s'agit d'une alternative aux techniques classiques de gestion de projet, historiquement axées sur la gestion des ressources: c'est le but par exemple des courbes EVA (Earned Value Added) qui permettent de comparer le budget aux travaux réalisés.
+En effet, cette approche classique est datée: comme le précise Alain Fernandez, "Comment pourrait-on piloter le projet en ne suivant que le planning et le budget ? Ce sont deux préoccupations essentielles, mais ce sont loin d’être les seules. Il est d’ailleurs à noter que l’exclusivité de cette préoccupation peut être totalement néfaste pour le déroulement du projet [...] Aurait-on perdu de vue que la conformité des fonctionnalités délivrées, comme la qualité de la mise en œuvre technique sont aussi des critères de premier ordre ? Que peut-on bien faire d’un système livré à temps et sans excès de budget, mais qui ne répond pas aux attentes des clients ?".
+Le pilotage par les livrables s'attache à un suivi opérationnel du programme; il se concentre sur les résultats et autorise l'anticipation. Des outils d'analyse spécifiques (inclus dans les logiciels de pilotage par les résultats) permettent d'aller plus loin en découvrant l'origine des dérives, en suivant leurs évolutions et tendances, et en identifiant les leviers d'actions pour sécuriser le projet.
+
+Notes et références
+Voir aussi
+Articles connexes
+Gestion de projets
+Logiciel de gestion de projets
+ Portail de l’informatique
+ Portail du management
+ Portail des entreprises

@@ -1,0 +1,88 @@
+Un coût est la mesure, de la dépense ou de l'appauvrissement d'un agent économique, associé à un événement ou une action de nature économique, et exprimé généralement sous forme d'un prix ou d'une valeur monétaire.
+Différentes notions de coûts coexistent - selon des définitions qui peuvent varier d'une organisation à l'autre - qui ne sont pas toujours cohérentes entre elles, ni compatibles avec les normes requises par le plan comptable.
+Les deux graphies coût et cout sont maintenant correctes, néanmoins le rapport de 1990 sur les rectifications orthographiques recommande l'utilisation de la graphie cout, sans accent circonflexe.
+
+Enjeux du concept de coût
+Le coût est un concept utilisé par les gestionnaires ou les acteurs de la comptabilité analytique ou comptabilité générale. Le coût sert d'étalon aux mesures et valorisations utiles :
+Aux gestionnaires : analyse de la marge, des rendements ou de la productivité dans leur expression monétaire, des économies d'échelle.
+Aux comptables : valorisation des stocks d'actifs ainsi que des flux monétaires à comptabiliser.
+
+Caractéristiques générales des coûts
+Différents coûts peuvent être calculés. Chaque type de coût est défini par trois caractéristiques : la date à laquelle il a été établi, l'objet concerné, le contenu pris en compte.
+
+La date à laquelle il a été établi
+le coût est dit « préétabli » ou « prévisionnel » lorsqu'il est déterminé avant que les événements dont il dépend se soient produits. Ce coût déterminé a priori est utile : soit pour faciliter certains traitements de comptabilité analytique, soit pour permettre le contrôle de gestion via l'outil d'analyse des Écarts.
+Mention particulière doit être faite au « coût standard » qui est établi avec une certaine rigueur car il est destiné à servir de norme, d'objectif à viser.
+Le coût est dit « constaté » ou « réel » lorsqu'il est déterminé après que les événements dont il dépend se sont produits. Il est utilisé : soit pour évaluer les éléments de patrimoine qui ne peuvent - en règle générale - qu'être évalués au coût réel (les stocks par exemple), soit dans le cadre du contrôle de gestion pour être comparé (voir ci-dessus) au coût pré-établi (comme par ex le coût standard).
+
+L'objet concerné
+Le coût calculé peut concerner différents champs, domaines ou périmètres d'activité : activité d'exploitation, moyen ou ressource d'exploitation, fonction ou service de l'organisation, entité juridique ou géographique, produit élémentaire, etc.
+
+Le contenu pris en compte
+Le contenu peut être exhaustif. Il s'agit de prendre en compte la totalité des charges saisies en comptabilité générale : on parle alors de coût complet.
+le contenu peut être partiel. Il ne prend en charge qu'une partie de ces charges : on parle alors de coût partiel.
+
+Typologie des coûts
+En gestion comptable, coût d'acquisition, coût de production, coût de revient sont les trois notions basiques qui permettent traditionnellement en termes de flux : de caractériser et de contribuer à la mesure des processus à l'œuvre, en termes d'actif : d'exprimer leur valeur monétaire et de contribuer à la mesure du patrimoine détenu.
+
+Le coût d'acquisition
+Pour un bien, il comprend les éléments suivants :
+Le prix d'achat convenu, soit la valeur monétaire résultant de l'accord - à la date d'opération - des parties prenantes à la cession.
+Les frais accessoires (par ex : coûts de transport, frais d'aménagement, d'installation et de montage, etc.) soit les autres coûts liés directement ou indirectement à l'acquisition, et qui vont servir : à mettre le bien acquis en état normal d'utilisation ou à l'entrer en stock.
+
+Le coût de production
+Pour un bien, il comprend les éléments suivants :
+Le coût d'acquisition des matières premières consommées pour la production du bien.
+Les autres coûts engagés par l'organisation au titre de la production pour amener le bien dans l'état et à l'endroit où il se trouve.
+Coûts directs et indirects de production, dans la mesure où ces derniers peuvent être légitimement imputés à la production du bien.
+Ces fonctions de coût sont aussi liées au niveau de production, autrement dit les coûts de production dépendent du niveau de production. la plupart de fonction de production dérivent de la fonction.
+
+Le coût hors production
+Pour un bien, il est constitué en général par les éléments suivants : coût impliqué au titre de la fonction administrative, coût impliqué au titre de la fonction financière, coût impliqué au titre de la fonction distribution.
+
+Le coût de revient
+Appelé aussi « prix de revient », c'est le coût complet d'un produit au stade final, coût de distribution inclus.
+
+Autres notions utiles
+Le coût total s'applique à un ensemble de produits (par exemple : une série de fabrication).
+Le coût unitaire rapporte le coût total à une unité élémentaire (par exemple : la somme des coûts relatifs à une production divisée par le nombre de produits générés, ou par les heures travaillées, ou par le nombre de personnes employées).
+Si le prix de revient correspond en toute rigueur à la somme des coûts nécessaires à la constitution de l'état final d'un bien ou d'un service à vendre, on remarquera que le terme de prix de revient est utilisé pour valoriser un produit se trouvant en état inachevé. D'où par exemple : le prix de revient dit de production, qui est calculé en « sortie de fabrication » et n'inclut pas les coûts de commercialisation et de livraison, le prix de revient d'un en-cours de fabrication, qui est la somme des coûts constatés jusqu'à l'état particulier du produit (dit produit semi-fini, ou produit en-cours).
+
+Notes et références
+Voir aussi
+Comptabilité analytique
+coût fixe
+coûts variables
+coût de production
+coût cible
+coût marginal
+activity-based costing
+coût de revient
+coût standard
+Coût total de possession, ou en anglais: TCO,(Total cost of ownership)
+
+Économie
+coût marginal
+coût d'opportunité
+coût de remplacement
+coût de production
+coût de transaction
+coût de transport
+coût de la main-d'œuvre
+coût du capital
+coût moyen incrémental de long terme
+coût social
+coût de la vie
+coût total de possession
+Life Cycle Cost
+
+Gestion financière
+coût de la liquidité
+coût du capital
+coût irrécupérable
+
+Articles connexes
+Externalités
+Marketing
+gestion de la qualité
+ Portail de l’économie

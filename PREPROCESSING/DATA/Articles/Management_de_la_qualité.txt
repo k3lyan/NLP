@@ -1,0 +1,157 @@
+Le management de la qualité, ou gestion de la qualité, est une discipline du management regroupant l'ensemble des concepts et méthodes visant à satisfaire les clients d'un organisme (en général les entreprises, associations, organismes publics) et à fournir des produits et services correspondant à leurs attentes.
+Selon l'ISO 9000, la qualité peut être définie comme l'« aptitude d'un ensemble de caractéristiques intrinsèques à satisfaire des exigences ». La notion de qualité pouvant être subjective, elle peut s'appuyer par une mise en conformité avec les exigences de référentiels (normes, standards…), de cahiers des charges, de spécifications, de la réglementation (directives, décret, etc.).
+Le management de la qualité est constitué de quatre familles d'activités complémentaires :
+la maîtrise de la qualité
+l'assurance de la qualité
+la planification de la qualité
+l'amélioration
+Le management de la qualité est transversal à toute l'organisation, dont la direction en définit la politique.
+
+Enjeux et histoire du management de la qualité
+Enjeux du management de la qualité
+Le management de la qualité permet a priori d'améliorer la qualité et donc de satisfaire les besoins exprimés ou non des clients ou utilisateurs.
+Cette qualité est relative, car elle est fonction des exigences de clients et aussi des parties prenantes internes et externes de l'entreprise, ainsi que de la prise en compte des risques de toute nature.
+Le niveau de qualité optimal ne doit pas produire de coût inadéquat (sur-qualité). La qualité, au même titre que n'importe quelle activité dans une entreprise a un coût, mais qui est censé réduire le coût de la non-qualité. Une entreprise est alors performante lorsque le triptyque "coût - délai - qualité" (c'est-à-dire les ressources qu'elle met en œuvre) est justifié et efficace, lui permettant de se positionner avantageusement sur un marché en bénéficiant d'un "ticket d'entrée" élevé qui donne une marge d'avance sur la concurrence.
+Dans le cadre du management de la qualité, du point de vue industriel, la qualité est une cible dont les critères sont précisément fixés par rapport à des standards (des normes). La qualité industrielle est le résultat d'un processus de production ou de servuction qui à toutes ses étapes (conception, mise en œuvre, contrôle, amélioration - voir PDCA) obéit à un "cahier des charges" permettant d'atteindre et de maîtriser le niveau souhaité.
+L'industrie a cherché à développer les meilleures méthodes pour améliorer la qualité. Provenant essentiellement du Japon et des États-Unis, ces méthodes sont rassemblées aujourd'hui dans un corpus bien défini et ont désormais une portée mondiale. Les normes internationales de la qualité définissent par convention une démarche « universelle », applicable à tout type d'entreprise (production de produits ou de services).
+Les normes internationales de la qualité se sont orientées vers la Qualité totale (TQM : Total Quality Management), qui articule stratégie, système, performance, dimension humaine et sociale. Dans le cadre de la Qualité totale, les parties prenantes sont : les clients, les fournisseurs, les actionnaires, les salariés et la société en général. La qualité optimale se situe au point de rencontre des besoins explicites ou implicites de l'ensemble des parties prenantes.
+
+Histoire
+L'histoire du management de la qualité s'inscrit dans l'histoire du management. Les civilisations se sont donc d'abord appuyées sur l'art et l'artisanat pour faire vivre et progresser la qualité des productions au sein des sociétés.
+La révolution industrielle et la consommation de masse a laissé place à de nouvelles problématiques de management (voir l'article économie des organisations et sociologie des organisations pour les théoriciens classiques du management). Plus spécifiquement au management de la qualité en 1924 Walter A. Shewhart a inventé une méthode de contrôle de la qualité de la production en utilisant des méthodes statistiques. Pendant la seconde guerre mondiale William Edwards Deming a utilisé ces méthodes pour la fabrication de munitions et d'autres produits d'importance stratégique.
+Après la Deuxième Guerre mondiale, le Japon a décidé de faire de l'amélioration de la qualité un impératif national dans le cadre de la reconstruction de leur économie avec l'aide de certains théoriciens comme Shewhart, William Edwards Deming et Joseph Juran dans les années 1950. C'est à cette époque que l'idée d'un décloisonnement des services et l'accent sur l'apprentissage en continu est apparu. Ainsi à partir des années 1970, cette initiative est devenue un succès en particulier au niveau de l'automobile dont Taiichi Ono est un des théoriciens (développant le juste à temps et le kanban, les 5 zéros) et directeur de production de Toyota dans les années 1950.
+Divers états américains ont mis en place dès les années 1990 des organisations dédiées à la qualité de l'environnement. En avril 1990, 21 des plus importantes entreprises américaines de l'époque (dont IBM, AT&T) se sont regroupées dans le cadre du GEMI (Global Environment Management Initiative), pour ouvrir la démarche qualité sur la prise en compte de l'environnement (TQEM : Total Quality Environmental Management). Cette mobilisation se fit en réponse aux premières démarches juridiques liées à l'impact de l'industrie sur la santé et l'environnement.
+Les normes ont progressivement intégré les attentes de la société civile : risques globaux, changement climatique, etc. Les enjeux de développement durable ont été traduits, pour les entreprises, dans des concepts de responsabilité sociétale, santé, éducation, et même gouvernance.
+Quelques dates repères :
+1970 (États-Unis) : Loi imposant l'obligation de l'assurance qualité pour la construction des centrales nucléaires ;
+1991 (États-Unis) : les premières normes environnementales (EQS : Environmental Quality Standard) de qualité des sols sont établies ;
+1993 (États-Unis) : apparition des premières EQS (Environmental Quality Standard) relatives à la santé.
+Les entreprises américaines publient leurs politiques et rapports annuels relatifs à la qualité globale (y compris les volets sociétaux et environnementaux) depuis la fin des années 1990. Il est facile d'en consulter sur le Net.
+En France, le déploiement de la démarche qualité a été tardif (1990). En première étape, l'exigence de description des process semblait ne devoir s'appliquer qu'à l'industrie. La démarche a été perçue comme trop procédurière ("usine à gaz") et l'importance de l'implication de la direction a été sous-estimée. Une version simplifiée de la démarche qualité a alors été élaborée et diffusée sous le nom d'Assurance Qualité, définie dans les normes ISO 9001, ISO 9002 et ISO 9003 (versions 1990 et 1994). Ces normes ISO 9002 et 9003 ont été supprimées dès la publication de la version 2000 de l'ISO 9001 qui souligne l'importance de l'implication managériale dans le pilotage global de la qualité, la maîtrise des process, et élargit l'application de la norme à la production de services.
+Des travaux sont en cours pour formaliser un cadre de normalisation cohérent, à la fois sur le plan industriel et sur le plan de la gestion de l'information. On trouve ainsi les séries de normes, ou projets de normes (pour la mise en œuvre) ISO 26000 et ISO 27000.
+
+Les principes de la qualité
+L'organisation international de normalisation ISO, décline en 7 principes de management la qualité aussi bien pour l'ISO 9001 mais aussi pour les normes connexes. Anciennement décliné en 8 principes, la version 2015, a modifié cette notion en 7 principes avec le passage à la version 2015 de l'ISO 9001.
+Ces 7 principes permettent à un organisme de structurer son organisation, ses processus, les activités en les prenant en compte. Ils sont un guide qui vient compléter les exigences normatives en les explicitant.
+Les 7 principes sont les suivants :
+Orientation client
+Leadership
+Implication du personnel
+Approche processus
+Amélioration
+Prise de décision fondée sur des preuves
+Management des relations avec les parties intéressées
+Il est important de préciser que précédemment l'ISO définissait la qualité (ou les systèmes de management par la qualité) en 8 principes. "L'approche système" a été supprimée en tant que principe. Il persiste tout de même dans la notion d'approche processus.
+L'approche processus se définit par entre autres 3 exigences :
+"Déterminer les processus nécessaires au SMQ et leur application dans tout l'organisme"
+"Déterminer pour chaque processus ses éléments entrants et ses produits ou services en sortie"
+"Déterminer la séquence et les interactions de ces processus"
+Ce qui revient à mettre en place une approche système.
+
+Outils du management de la qualité
+Typologie des outils de gestion de la qualité
+La démarche qualité propose toute une panoplie d'outils d'aide (créativité, méthode, collecte, analyse, statistique, suivi-contrôle). Ces outils, créés et/ou diffusés par les principaux fondateurs de la démarche qualité dans le cadre de leurs actions de conseil auprès des entreprises, ont vocation pédagogique.
+Il est utile de répartir les outils de la qualité en deux catégories :
+Les outils complexes utilisés dans les domaines de l'ingénierie, de la logistique, de la métrologie, des statistiques, par les services de planification et de méthode... Ces outils ont souvent été créés au début du siècle dernier. La plupart d'entre eux figurent déjà dans le livre de Joseph Juran (1951) « Quality Control Handbook » McGraw-Hill Book Company, guide rassemblant les concepts, outils et démarches applicables à l'amélioration de la qualité.
+Les outils simples d'aide à la réflexion, à l'analyse, à la méthode, utilisables par tout public sans formation particulière. C'est la JUSE (Japanese Union of Scientists and Engineers) qui fera la première diffusion systématique en 1977, de 7 outils "tout public" sélectionnés pour la simplicité de leur utilisation. Ces outils ont été dénommés les "7M" (1-Diagramme de Pareto, 2-diagramme causes-effets, 3-stratification, 4-check-list, 5-histogramme, 6-diagramme de dispersion, 7-graphe / charte de contrôle).
+
+Pour analyser une performance
+Il est possible de vérifier la performance à partir d'une carte de contrôle. (États-Unis) (Auteur : Walter A. Shewart) (variantes : suivi de tableau de bord, contrôle statistique de processus (CSP) : méthode de gestion de la qualité selon laquelle on mesure, à l'aide de techniques statistiques, un processus pour déterminer s'il faut lui apporter des changements ou le maintenir tel quel).
+
+Pour cadrer le pilotage
+Il est possible d'utiliser la roue de Deming : (États-Unis) étapes de mise en place de la maîtrise de la qualité. Autre dénomination : le PDCA (Plan - Do - Check - Act : concevoir, mettre en œuvre, contrôler, réagir), la "roue de la qualité". Cette méthode a été lancée par les qualiticiens Juran et Shewhart à la société Bell Telephone en 1925. W. Deming, un statisticien qui avait été stagiaire école auprès de Shewhart à cette époque, évoquera cet outil au Japon en 1950 alors qu'il était chargé de donner durant 2 mois une série de cours sur les statistiques. En 1954, l'industrie japonaise fera appel à Juran afin qu'il expose les volets managériaux et méthodes de déploiement de la qualité. Néanmoins, le nom de Deming est resté attaché à cet outil.
+La Méthode Six Sigma : (États-Unis) méthode de management se basant sur un processus d'amélioration continue de la qualité. Équivalent : PDCA, dont elle est une version améliorée.
+
+Pour analyser un fonctionnement
+La "cartographie des processus" ("process mapping") déjà utilisé dans les années 1930 aux États-Unis est déclinée sous diverses formes, des plus simples au plus complexes, par exemple les suivantes :
+"Le logigramme (synonyme : ordinogramme ou "flowchart"). Schéma codifié représentant les étapes successives et logiques d'un cheminement et montrant les interactions d'une procédure, d'un processus ou d'un système à l'aide d'un ensemble de figures géométriques interreliées (par exemple des rectangles ou des losanges).
+Le schéma géographique (organisation matérielle) analyse le flux matériel des activités et aide à minimiser les pertes de temps quand les extrants ou les ressources sont acheminés d'une activité à une autre.
+Le schéma fonctionnel représente les interactions entre différentes unités de travail. Il montre par exemple comment les services fonctionnels à orientation verticale influent sur un processus à orientation horizontale mis en œuvre au sein d'une organisation.
+L'outil PERT (Project Evaluation and Review Technique, litt. "technique d'évaluation et d'examen de projets"), méthode de gestion de projet permettant de définir les tâches et délais d’un projet et d’en assurer le suivi.
+Stratification : présentation permettant la lecture simultanée de données compilées de natures et sources diverses, mettant en évidence leurs variations singulières, leurs influences respectives, l'impact du contexte, et ce pour donner une vision d'ensemble du mode de fonctionnement d'un système et de ses variables.
+
+Pour rechercher les causes des défauts et qualifier leur impact
+Le Diagramme de causes et effets ou diagramme d'Ishikawa Kaoru Ishikawa (synonyme : diagramme en arêtes de poisson). Diagramme permettant d'examiner les causes profondes des problèmes. En posant continuellement la question « Pourquoi ? », on finit par découvrir la véritable cause du problème. Généralement utilisé pour mettre en évidence les causes d'un problème et les regrouper dans des catégories distinctes (par. ex. méthode, main-d'œuvre, matériel, machines, matières).
+La méthode des 5 pourquoi.
+Le diagramme de Pareto. Auteur : Joseph Juran (synonyme : 80-20) (variante : la courbe A-B-C découpe de diagramme de Pareto en trois segments délimitant l'effort de traitement à effectuer). Graphique en bandes simple, servant, après la collecte de données, à classer les causes des problèmes et à établir des priorités d'action. Il indique les causes des problèmes selon l'ampleur de leurs effets et aide à définir les activités d'amélioration selon leur ordre de priorité. Le recours à ce genre de graphique donne lieu à la règle de 80-20, c'est-à-dire que 80 % des problèmes découlent de 20 % des causes.
+L'Histogramme. Graphique en bandes indiquant la distribution d'une variance. Il montre également les écarts par rapport à la norme, sous forme d'analyse sélective par exemple. Il permet de mesurer la fréquence à laquelle quelque chose se produit.
+
+Pour choisir la solution appropriée
+La matrice de compatibilité.
+La démarche 8D (pour assurer la complète résolution d'un problème).
+Arbre de décision : Représentation en arborescence qui permet à partir d'un objectif de départ de décliner l'ensemble des objectifs intermédiaires et les moyens à mettre en œuvre.
+
+Pour optimiser - sécuriser un process
+L'AMDEC ou Analyse des Modes de Défaillances de leurs Effets et de leur Criticité.
+Le diagramme de Gantt. Le diagramme de Gantt est un outil permettant de modéliser la planification de tâches nécessaires à la réalisation d'un projet. Il s'agit d'un outil inventé en 1917 par Henry L. Gantt. Il sert de support au paramétrage et à la gestion de projet.
+La matrice "QFD" (Quality Function Deployment), également dénommée la "maison de la qualité". Il s'agit d'un tableau à double entrée recoupant les étapes du processus et les exigences de la clientèle. Un système de notation permet de préciser les points critiques dans la matrice et même d'en suivre l'évolution (= tableau de bord figuratif).
+Le kanban, système d'étiquettes permettant le suivi de production (utilisé dans le juste-à-temps).
+Le Poka yoke : système d'alerte visant à éviter (yoke) les erreurs (poka) au niveau des opérateurs (recours à des moyens simples comme la vue et l’ouïe pour empêcher les incidents de fonctionnement). Inventé par un ingénieur japonais nommé Shigeo Shingo (concepteur du système SMED).
+La défauthèque- but : recenser, formaliser, garder en mémoire les défauts
+Les 5S- but : ordre et propreté
+
+Pour gérer les premières étapes d'une analyse
+Le diagramme KJ. Il fait partie des 7 outils de la qualité diffusés par les Japonais. À l'origine, dénommé "diagramme des affinités" (Affinity Diagram), il est fréquemment identifié par les initiales de son concepteur Kawakita Jiro. Très fréquemment utilisé dans l'animation des groupes de travail, ce diagramme sert à regrouper des idées, des opinions se rattachant à des problématiques diverses et à créer des liens entre elles afin de les rapprocher par catégories.
+Le QQOQCCP ("Five Ws" ou "5W2H" en anglais).
+Les cinq pourquoi ("5 Whys" en anglais)
+Analyse des forces et faiblesses. L'outil peut être simplement constitué d'un tableau distinguant les deux catégories, en vis-à-vis par thème. L'origine de cette méthode est attribuée à Kurt Lewin.
+Analyse de la variance
+Le brainstorming (remue-méninges).
+Le QRQC (Quick Response, Quality Control), méthode développée au Japon puis reprise en France et en Europe par l’équipementier automobile Valeo en 2002. D'abord utilisé dans le milieu automobile la méthode QRQC est maintenant plus largement utilisée. Le QRQC est une méthode visuelle de résolution de problème, au plus près du terrain, impliquant celui qui a détecté l'anomalie. Chaque problème détecté doit être immédiatement identifié, caractérisé et analysé sur le terrain par les personnes concernées en utilisant les pièces incriminées; une action corrective doit être définie et mise en place sous 24 heures. L'analyse du problème doit permettre d'identifier le ou les facteurs à l'origine de l’occurrence et de la non détection du problème. Une fois que l'influence des facteurs sur le problème est démontrée, une analyse cinq pourquoi doit permettre d'arriver à la cause racine qui est à l'origine du défaut. Enfin cette cause racine doit faire l'objet d'une carte d'apprentissage ou d'une "Lesson Learned Card" en anglais afin de capitaliser et partager cette expérience dans l'entreprise.
+La Matrice Auto-Qualité, qui fait partie de la boîte à outils de certaines méthodes de résolution de problème, et d'implication du personnel, qui identifie le lieu d'apparition d'un défaut et son lieu de détection.
+
+Management de la qualité et approche par les risques
+De nos jours, la gestion des risques intègre progressivement la démarche qualité : on parle maintenant de « responsable qualité et gestion des risques » dans les structures sanitaires et médico-sociales. Le manuel de certification HAS V2010 soulève les problématiques de la gestion des vigilances sanitaires. Il évoque également la fonction « gestion des risques » en critère « 8.b » qui correspond à une des 13 pratiques exigibles prioritaires à mettre en œuvre au sein des établissements de santé. La norme ISO 9001 version 2015 inclut dans ses dernières évolutions l'approche par les risques, devenue partie intégrante d'un système de management de la qualité.
+Il existe de nombreux outils liés aux méthodes de gestion des risques et de résolution de problèmes. Les plus connus sont : la gestion des évènements indésirables, la cartographie des risques, le diagramme d'Ishikawa ou « 5M », le vote pondéré, le diagramme de Pareto des effets ou « règle des 80-20 % », plan d'actions correctives ou préventives, etc.).
+
+Concepts liés au management de la qualité (au sens large)
+Les organisations applicables à la gestion de la qualité sont très nombreuses et découlent simultanément des objectifs décrits et des moyens mis en place par le groupe qui souhaite ainsi gérer sa qualité. Souvent, dans les entreprises, cette responsabilité est déléguée à des ingénieurs qualité ou qualiticiens. Le rôle de ces ingénieurs est alors de construire les moyens pratiques d'atteindre la qualité (procédures, contrôles, mesures, etc.).
+Le management de la qualité a - du fait de ses buts très larges - un spectre d'application considérable qui a tendance à recouvrir un grand nombre d'activités. Un bon moyen pour s'en rendre compte est de balayer les chapitres de la norme ISO 9000 Version 2008 ou 2015 qui fait figure de référence pour beaucoup d'entreprises mondiales.
+Par exemple pour l'ISO 9001 aborde les thèmes suivants (à mettre à jour avec la version 2008 et 2015)  :
+Responsabilité de la direction : la qualité commence par l'implication de la Direction de l'entreprise.
+Système de management de la qualité : une organisation et une structure propres sont aussi nécessaires.
+ : dès la décision initiale de réaliser produit ou service, la gestion de la qualité peut et doit être mise en œuvre.
+Maîtrise de la conception : l'ensemble de l'activité de conception est ensuite couverte.
+Maîtrise des documents : comme il faut dire/écrire ce que l'on fait et ce que l'on va faire, la maîtrise des documents au sens le plus large du terme est une nécessité centrale.
+Maîtrise des fournisseurs : fournir des produits et des services de qualité sur toute la chaîne d'approvisionnement participe à la qualité du produit/service final.
+Maîtrise du produit fourni par le client : le client peut avoir des produits à fournir, participant ainsi à la qualité du produit/service/final.
+Identification et traçabilité : reconnaître et retrouver le produit est une nécessité dans la gestion de la qualité.
+Maîtrise des processus de réalisation ou de production permet de fournir exactement ce qui était prévu.
+Mesures et surveillances: s'assurer que le produit/service est conforme.
+Maîtrise des dispositifs de mesure et surveillance (anciennement équipements de contrôle, de mesure et d'essai : pour s'assurer que les contrôles sont fiables, il faut gérer la qualité des outils qui interviennent dans cette activité.
+État des contrôles et essais : s'assurer que l'on connaît l'état des essais permet de savoir si la qualité est atteinte.
+Maîtrise du produit non conforme : la qualité n'est que rarement atteinte à 100 % ; il faut donc traiter les non-conformités ou les non qualité.
+Actions correctives et actions préventives : à chaque incident, il convient de savoir comment le gérer a posteriori et comment empêcher qu'il se reproduise.
+Manutention, stockage... : encore une activité qui n'échappe pas à la gestion de la qualité puisqu'elle intervient avant la mise à disposition du client/destinataire.
+Enregistrements relatifs à la qualité : des traces doivent être gardées des activités de la gestion de la qualité.
+Audits qualité internes : la gestion de la qualité assure des audits pour vérifier et mesurer l'application des procédures de la gestion de la qualité.
+Formation : il faut former à la qualité aussi.
+Prestations associées
+Techniques statistiques : les statistiques ont une place centrale dans la gestion de la qualité dès lors que les quantités mises en œuvre augmentent un tant soit peu.
+Dans les services professionnels et les professions médicales, la gestion de la qualité est basée sur les codes de déontologie.
+La démarche qualité est déclinée dans tous les domaines industriels, avec des variantes et des dénominations parfois particulières :
+pour le domaine informatique  : qualité des systèmes informatiques - sûreté de fonctionnement des systèmes. Capability Maturity Model Integration CMMI et ses déclinaisons (CMM-I, PCMM, etc.) (liste à compléter).
+
+Notes et références
+Articles connexes
+
+Système de management de la qualité, Qualité totale, Système de garantie participatif, Système de contrôle, Contrôle qualité, Cercle de qualité
+Norme
+Malcolm Baldrige National Quality Award
+EFQM
+Série des normes ISO 9000, Série des normes ISO 14000, Liste de normes ISO par domaines
+Norme ISO 10006 relative au management de la qualité dans la gestion de projets
+Management
+Benchmarking
+Kaizen
+Lean production
+8D
+Management environnemental
+Certification tierce partie
+Système de garantie participatif
+Audit qualité
+Gestion des réclamations
+TickIT
+Logiciels de management de la qualité
+
+ Portail du management

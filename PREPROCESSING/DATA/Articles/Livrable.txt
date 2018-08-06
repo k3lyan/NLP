@@ -1,0 +1,11 @@
+Un livrable est un produit destiné à la livraison.
+En gestion de projet informatique, un livrable désigne tout composant matérialisant le résultat d'une prestation de réalisation (production ou TMA) à la Direction des Systèmes d'Information (DSI), c’est-à-dire toute production émise par le titulaire au cours du projet : document, courrier, module de code logiciel, dossiers de tests, application intégrée…
+Un livrable peut faire l'objet d'un bordereau de livraison, qui liste le contenu, la date, le fournisseur, le client, l'approbation par le client, et autres métadonnées.
+
+Voir aussi
+Gestion de projet
+Jalon (Gestion de projet)
+
+Note
+
+ Portail du management
