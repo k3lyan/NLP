@@ -1,4 +1,4 @@
-# RAW TXT TO TOKENIZED SENTENCES 
+# tokenizer_sentence.py 
 ## Input: 
 sys.argv[1]: root directory containing all the inputs    
 sys.argv[2]: root targeted directory     
