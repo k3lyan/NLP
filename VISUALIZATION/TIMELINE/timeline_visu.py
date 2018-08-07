@@ -50,7 +50,7 @@ def hlda(corpus_folder):
             dot.edge(str(node.node_id), str(prev_id))
             prev_id = node.node_id
             node = node.parent
-    dot.render('thales_hlda.gv', view=False)
+    dot.render('hlda.gv', view=False)
 
 # Type the path where is located the Corpus !!
 hlda('../../PREPROCESSING/DATA_STATS/Corpus')
