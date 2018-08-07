@@ -1,4 +1,4 @@
-# PREPROCESSING
+# PREPROCESS DATA
 This module aims at building a preprocessing pipeline for my NLP automated treatment.
 
 ### Some commands to extract stats from a given corpus
