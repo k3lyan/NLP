@@ -7,46 +7,12 @@ import sys
 import re
 import langid
 
-# Here is the code to convert document to txt APACHE TIKA
-
-
-## APACHE TIKA ALLOWS TO EXTRACT PDF XLS PPT  DOCX ... ##
-
-
-#### EXPLANATION ABOUT HOW TO DOWNLOAD APPACHE TIKA ###
-'''
-On extrait les documents docx avec Appache Tika telechargeable de la facon suivante :
-A module to extract raw text from any document format (PDF, Microsoft Office etc.)
-
-Requirements
-Download Apache Tika here
-
-Download Java ImageIO plugin for JBIG2 here (Source Code)
-
-Download JAI Image I/O Tools Core
-
-Download JPEG2000 support for Java Advanced Imaging Image I/O Tools API core from bintray
-
-Install tika-python (Source Code)
-
-pip install tika
-
-Getting Started
-Start the Apache Tika server and make sure that the jar files are in the classpath. For example,
-
-java -cp "./*" org.apache.tika.server.TikaServerCli
-
-will start the server at 9998 (default port) with the above mentioned jar files in the current directory.
-'''
-
-# INFORMATION INPUTS 
 #sys.argv[1]: directory path where all the files are (not necessarly microsoft files)
 #sys.argv[2]: directory where we will stock all the converted files 
-##
 
 # Extract text with apache tika function 
 tika.TikaServerEndpoint="http://localhost:9998/"
-#ensure that apache tika is listening at the specified port
+# Ensure that apache tika is listening at the specified port
 tika.TikaClientOnly = True
 
 def extract_text(inputFilePath, xmlOutput=False):
@@ -67,10 +33,8 @@ def extract_text(inputFilePath, xmlOutput=False):
         return None,'IOError'
     except UnicodeEncodeError:
         return None,'UnicodeEncodeError'
-##
 
-
-# Cleaning titles and detecting language
+# Clean text functions
 def line_cleaner(sentence):
     return re.sub(r"[\n]", r"", sentence)
 
@@ -78,25 +42,21 @@ def balise_cleaner(sentence):
     regexp_balise = r"<(c|t|b\|a)*[^>]+>"
     return re.sub(regexp_balise, r" ", sentence)
 
-# Get only microsoft files
-def get_paths(paths_files,extension_to_extract):
+# Get only Microsoft files in the directories
+def get_paths(paths_files, extension_to_extract):
     compt=0
     with open(paths_files, 'r') as paths:
-        pdf_paths = []
+        ms_paths = []
         for line, path in enumerate(paths.readlines()):
-            # KEEP ONLY PDF PATHS
-            extension=path.strip().split('/')[-1].split('.')[-1].replace(' ','').lower() 
+            extension = path.strip().split('/')[-1].split('.')[-1].replace(' ','').lower() 
             if (extension in extension_to_extract):
-                # ORIGINAL PATHS TO GET THE DATA -> '\ ' FOR CMD LINE
-                #cmd_line_path = path.replace(' ', '\ ')
-                pdf_paths.append('.'+line_cleaner(path))
-                # print('DOCX_FOUND: {}'.format(path))
+                ms_paths.append('.'+line_cleaner(path))
                 compt+=1
         paths.close()
     print("There are {} microsoft found".format(compt))
-    return pdf_paths
+    return ms_paths
 
-def path_generator(input_directory,extension_to_extract):
+def path_generator(input_directory, extension_to_extract):
     compt=0
     paths = []
     microsoft_paths=[]
@@ -106,30 +66,20 @@ def path_generator(input_directory,extension_to_extract):
             for name in dirs:
                 paths.append(os.path.join(root, name))
     for line, path in enumerate(paths):
-    # KEEP ONLY MICROSOFT PAThS
+    # KEEP ONLY MICROSOFT PATHS
         extension=path.strip().split('/')[-1].split('.')[-1].replace(' ','').lower() 
         if (extension in extension_to_extract):
-            # ORIGINAL PATHS TO GET THE DATA -> '\ ' FOR CMD LINE
             microsoft_paths.append(line_cleaner(path))
             compt+=1 
     print("There are {} microsoft found".format(compt))
     return microsoft_paths
+
 # EXTRACT ALL MICROSOFRT CONTENT INTO TXT IN A NEW STRUCTURE
-
-
-#
-
-
-## Variables
-
 extension_to_extract=['pptx','ppt','xlsx','xls','docx','dox']
 input_directory=sys.argv[1]
 output_directory=sys.argv[2]
 initial_path=path_generator(input_directory,extension_to_extract)
 compteur=0
-##
-
-## MAIN
 
 for rank, pdf_path in enumerate(initial_path):
     compteur+=1
