@@ -1,5 +1,5 @@
-# Pipeline
-A pipeline to preprocess given set of documents.
+# Features extraction
+A pipeline to preprocess given set of documents and extract some of their features.
 
 ## Requirements
 Download and install [Stanford Core NLp](https://stanfordnlp.github.io/CoreNLP/index.html#download) for French
