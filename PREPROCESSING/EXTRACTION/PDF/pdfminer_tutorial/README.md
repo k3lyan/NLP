@@ -22,17 +22,6 @@ Start the Apache Tika server and make sure that the jar files are in the classpa
 will start the server at 9998 (default port) with the above mentioned jar files in the current directory.
 
 # Extract PDFs to texts
-## pdfminer.six
-* PDF parser and analyzer
-* Fork of PDFMiner using six for Python 2+3 compatibility.
-* PDFMiner is a tool for extracting information from PDF documents. Unlike other PDF-related tools, it focuses entirely on getting and analyzing text data. PDFMiner allows to obtain the exact location of texts in a page, as well as other information such as fonts or lines. It includes a PDF converter that can transform PDF files into other text formats (such as HTML). It has an extensible PDF parser that can be used for other purposes instead of text analysis.
-
-## Installation
- * Install Python 2.7 or newer. (Python 3.x is supported in pdfminer.six)
- * Install with pip:
-    $ pip install pdfminer.six
- * Install with conda:
-    $ conda install -c conda-forge pdfminer.six
 
 ## Extract text from PDF (fine-grained extraction)
 The wrapper_pdf.py python script builds a class PdfMinerWrapper which parses the pdf file put in input into LTPage objects (one for each page). An LTPage object which may contain child objects like LTTextBox, LTFigure, LTImage, etc.
