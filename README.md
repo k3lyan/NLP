@@ -2,7 +2,7 @@
 This repository aims at saving my work in the construction of a modulable Natural Langage Processing Pipeline (from raw inputs to visualizations). It is shaped according to 4 main sub-directories. Each of this sub-directory represents a block of the NLP pipeline. The goal of it is to be able to navigate and test easily different configurations by varying the algorithms used in the pipeline.  
 
 **********************************************************************************************************************
-PREPROCESS TEXT --> MATHEMATICALLY CONVERT TEXT --> EXPLORE THE MATHEMATICAL REPRESENTATION -->  VISUALIZE THE RESULTS                                                     
+PREPROCESS TEXT -> MATHEMATICALLY CONVERT TEXT --> EXPLORE THE MATHEMATICAL REPRESENTATION -->  VISUALIZE THE RESULTS                                                     
 **********************************************************************************************************************
     
 ## PREPROCESING 
