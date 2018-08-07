@@ -17,7 +17,6 @@ def hlda(corpus_folder):
                 utils.remove_symbols(utils.remove_num(
                     utils.normalize_quotes(doc)))).split()
         docs.append([w for w in tokens if w not in remove_tokens])
-    #hlda_model = topic.do_hlda(docs, 3)
     hlda_model = topic.do_hlda(docs, 3)
     dot = Digraph(comment='hlda')
     topic_doc = defaultdict(list)
@@ -54,4 +53,4 @@ def hlda(corpus_folder):
     dot.render('thales_hlda.gv', view=False)
 
 # Type the path where is located the Corpus !!
-hlda('/home/k3l/Bureau/LILI.AI/github/lili-ai-nlp/Corpus')
+hlda('../../PREPROCESSING/DATA_STATS/Corpus')
