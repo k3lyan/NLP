@@ -1,5 +1,5 @@
 # DATA STATS
-Explore quickly your data to get some statistical information about what you arte going to play with.
+Explore quickly your data to get some statistical information about what you are going to play with.
 
 ### Some commands to extract stats from a given corpus
 
