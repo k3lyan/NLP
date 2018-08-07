@@ -35,8 +35,8 @@ def txt_to_sentences(file_path):
             sents = []
     return sents 
 
-# WRITE TOKENIZED TEXTS IN NEW FILES
 def tokenize_files(paths, source_root, destination_root):
+    '''Write the yokenized files into new files.'''
     for p, path in enumerate(paths):
         sentences = txt_to_sentences(path)
         # CHANGE AND CREATE PATHS
