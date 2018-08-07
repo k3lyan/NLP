@@ -1,3 +1,9 @@
+# PDF EXTRACTION
+See the directory PDF.
+
+# MICROSOFT FILES EXTRACTION
+See the directory MS.
+
 # WIKIPEDIA ARTICLES EXTRACTION 
 ## Input: 
 Txt file containing in each line the title of a wikipedia article (in a same choosen language supported by the wikipedia api)
@@ -18,12 +24,6 @@ destination_root: the directory where we'll be put the outputs, ex: '../DATA/ART
 
 ## Libraries to install:
 $pip3 install wikipedia-api
-
-# PDF EXTRACTION
-See the directory PDF.
-
-# MICROSOFT FILES EXTRACTION
-See the directory MS.
 
 # PDF REPORTS EXTRACTION
 ## wrapper_pdf.py ###
