@@ -1,0 +1,76 @@
+L'efficience est un composant important de la mesure de la performance. C'est l'optimisation de la consommation des ressources utilisées (intrants) dans la production d'un résultat (extrant).
+Elle se mesure à partir de rapports entre les résultats obtenus et les ressources utilisées.
+En conformité avec le modèle de Gilbert, il faut la distinguer de l'efficacité, qui vise à vérifier si les résultats obtenus sont en ligne avec les objectifs fixés, et de la pertinence, qui vise à procurer les moyens suffisants pour atteindre les objectifs fixés.
+
+L'efficience contre l'efficacité
+L'anglais comporte quatre termes (efficacy, efficiency, effectuality, effectiveness) là où le français n'en comporte que deux (efficacité et efficience).
+
+Les adjectifs correspondants en anglais
+Efficacious serait l'efficacité appliquée aux objets, particulièrement aux traitements, et renvoie à la capacité de produire l'effet désiré.
+Efficient s'applique aux agents, à leurs actions ou aux instruments, et renvoie à la tendance à produire l'effet désiré avec un minimum d'effort ou de dépenses.
+Effectual s'applique à l'action indépendamment de l'agent et signifie ne pas produire moins que l'effet complet visé.
+Effective s'applique à l'action accomplie ou à l'acteur d'une telle action et renvoie au haut degré d'effet de l'action.
+
+Les grands auteurs sur l'efficacité et l'efficience
+Harrington Emerson
+Frederick W. Taylor
+Franck et Lilian Gilbreth
+Peter Drucker
+Peter Drucker a écrit un livre The Effective Executive (1967),— travailleur intellectuel dont la qualité majeure est l'effectiveness en l'opposant au travailleur manuel à qui l'on demande seulement de l'efficacité (efficiency) (p. 1).
+Il revient sur le sujet dans son Management (1973), p. 45-46. Efficiency is concerned with doing things right. Effectiveness is doing the right things
+
+Henry Mintzberg
+Chester Barnard
+Herbert Simon
+François Jullien
+Exemples de gains d’efficience
+Les gains de productivité, l'amélioration des services aux consommateurs et à la collectivité, l'amélioration des capacités d'innovation et le renforcement des moyens de recherche et développement, la protection et le développement de l'approvisionnement national, la protection de l'environnement et l'amélioration de la compétitivité internationale des entreprises, la simplification de l'accès et de la compréhension du droit.
+Avec les mêmes moyens, on améliore la production/services rendus, diminue les externalités négatives (pollution), etc.
+
+Exemples de fonctionnement et de méthode efficiente
+Le LOR (Rendez-vous en orbite lunaire), efficient, vs la fusée dans l'album de Tintin Objectif Lune, efficace.
+Les SEV de Mercedes
+La Volkswagen 1-Liter
+Le Michelin Challenge Bibendum
+Un porte-conteneurs, par comparaison à un cargo classique
+Les porte-conteneurs de classe 3-E
+Une armée peut être efficace. Peu importe les moyens engagés, il lui faut gagner la guerre, à tout prix quitte à remporter une victoire à la Pyrrhus. Elle peut cependant être aussi efficiente, c’est-à-dire gagner avec très peu de moyens ou très peu de pertes (Ulm, Aqaba, Inchon, etc.)
+Certains étudiants essayent de mener leurs études de manière efficiente, c’est-à-dire qu'ils minimisent leur dose de travail afin d'obtenir des résultats donnés (examen...).
+Un réfrigérateur est efficient s'il refroidit son contenu correctement pour une faible consommation, et ce par rapport à un autre —efficace — qui refroidit parfaitement son contenu pour une très forte consommation.
+Un gestionnaire doit avoir un budget publicité efficient. Il ne cherche pas à conquérir toute la planète à n'importe quel prix, mais à faire connaître son produit au public le plus large possible avec un budget publicitaire minimal.
+Une médecine ou un traitement efficient vont avoir pour but non pas de guérir le patient à tout prix mais d'obtenir le meilleur résultat clinique possible en tenant compte des ressources médicales consommées (matériel, médicaments, personnel de santé...). C'est devenu un enjeu majeur pour tous les pays confrontés à l'envolée des dépenses de santé.
+
+Enjeux des indicateurs d'efficience
+Un indicateur d'efficience permet de déterminer si une décision va entraîner des pertes ou des gains pour une organisation, relativement aux moyens investis.
+
+Exemples d'indicateurs
+L'efficience énergétique d'un moteur correspond, par exemple, à l'énergie délivrée par rapport à celle consommée. On appelle cela aussi son rendement.
+Les rendements agricoles : production/unité de surface est un indicateur d'efficience, mais il est imparfait car il ne prend pas en compte des paramètres exogènes (état des sols, météo...) et pour cause ils ne sont pas contrôlables.
+Le seuil de rentabilité (appelé rentabilité car utilisé de manière globale par les apporteurs de capitaux) est un outil d'évaluation de l'efficience d'une organisation préféré en gestion. Cependant, c'est un outil manquant de réalisme. Il faut lui préférer l'évaluation de coûts cibles scénarisés de tel sorte à atteindre des économies d'échelle.[réf. nécessaire]
+La valeur actuelle nette ne peut pas être considérée comme un indicateur d'efficience, car l'investissement comparé l'est une fois pour toutes et n'est pas un coût fixe. De plus, cet outil utilise des flux de trésorerie et est actualisé par un taux de rentabilité. C'est donc une analyse de la rentabilité (il en est de même du TIR).
+
+Efficience en économie
+L'efficience économique met en relation les résultats atteints (nombre de salles de classes construites, de km de routes réalisées, de tonnes de produit, de personnes touchées...) avec les ressources financières utilisées. L'efficience économique se mesure différemment selon la nature du projet : elle peut être évaluée en termes monétaires (par exemple en flux de trésorerie), ou bien selon un indicateur non-financier (par exemple en bien-être collectif).
+Si le projet est valorisable monétairement, les indicateurs utilisés pour mesurer l'efficience peuvent être :
+l'évaluation du seuil de rentabilité : le chiffre d'affaires prévisionnel nécessaire pour couvrir les frais fixes lors de l'exploitation (non utilisable en économie générale car la structure des coûts fixes est variable entre entreprises) ;
+la valeur actuelle nette (VAN) : la somme des flux de trésorerie actualisés générée par un investissement moins la valeur de cet investissement (utilisable en économie générale en utilisant un taux d'actualisation (généralement fictif)) ;
+le taux de rentabilité interne : TRI, taux de rentabilité attendu par les apporteurs (pour qu'il y ait efficience de l'investissement) ;
+le délai de récupération : le temps nécessaire pour récupérer le capital initial (délai pour avoir une efficience c'est-à-dire une VAN>0).
+Si le projet ne produit pas de résultat valorisable monétairement, on peut utiliser un indicateur d'efficience qui correspond à la division : « valeur » d'un avantage / ressources financières. I s'agit donc bien d'un rendement.
+On peut considérer également un indicateur de coût unitaire : coût unitaire d'un élève formé, coût unitaire par élève lorsqu'une nouvelle classe est ouverte, coût de construction ou de réhabilitation d'une route par kilomètre.
+
+Notes et références
+http://www1.worldbank.org/publicsector/civilservice/frenchadmin/Guide4_RPK.pdf https://www.scribd.com/doc/40239940/Manuel-de-suivi-et-d-evaluation-des-programmes-et-projets-de-developpement
+
+Voir aussi
+Articles connexes
+Efficience du marché
+Efficience énergétique
+Harrington Emerson
+Salaire d'efficience
+Frederick Winslow Taylor
+
+Liens externes
+Bibliographie
+ Portail de la sociologie
+ Portail de l’économie
