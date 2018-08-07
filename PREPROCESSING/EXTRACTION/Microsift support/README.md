@@ -1,8 +1,8 @@
 # Microsoft support files extraction
 This module aims at extracting all type of microsoft office support files to raw text files. Apache tika is used for that.
 
-# APACHE TIKA ALLOWS TO EXTRACT PDF XLS PPT DOCX 
-## Requirements
+## Apache Tika 
+### Requirements
 * Download Apache Tika here
 * Download Java ImageIO plugin for JBIG2 here (Source Code)
 * Download JAI Image I/O Tools Core
@@ -10,7 +10,7 @@ This module aims at extracting all type of microsoft office support files to raw
 * Install tika-python:
 `$pip3 install tika`
 
-## Getting Started
+### Getting Started
 Start the Apache Tika server and make sure that the jar files are in the classpath. For example:
 `$java -cp "./*" org.apache.tika.server.TikaServerCli`     
 will start the server at 9998 (default port) with the above mentioned jar files in the current directory.     
