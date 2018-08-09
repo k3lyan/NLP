@@ -3,7 +3,8 @@ Here I give example on how to use were set the settings and mappings for the dif
 The customed analyzers varied during the tests of the study to find the more optimized one for my study.
 
 ## IPMA
-PUT ipma 
+PUT ipma        
+'''json
 {
   "settings":{
     "analysis": {
@@ -41,9 +42,10 @@ PUT ipma
     }
   }
 }
-
+'''
 ## Classifier
-PUT classifier
+PUT classifier     
+'''json
 {
   "settings":{
     "analysis": {
@@ -83,9 +85,11 @@ PUT classifier
     }
   }
 }
+'''
 
 ## Nested Classifier
-PUT classifier_nested
+PUT classifier_nested      
+'''json
 {
   "settings":{
     "analysis": {
@@ -119,4 +123,4 @@ PUT classifier_nested
     }
   }
 }
-
+'''
