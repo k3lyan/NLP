@@ -4,7 +4,7 @@ The customed analyzers varied during the tests of the study to find the more opt
 
 ## IPMA
 PUT ipma        
-'''
+```json
 {
   "settings":{
     "analysis": {
@@ -42,10 +42,10 @@ PUT ipma
     }
   }
 }
-'''
+```
 ## Classifier
 PUT classifier     
-'''json
+```json
 {
   "settings":{
     "analysis": {
@@ -85,11 +85,11 @@ PUT classifier
     }
   }
 }
-'''
+```
 
 ## Nested Classifier
 PUT classifier_nested      
-'''json
+```json
 {
   "settings":{
     "analysis": {
@@ -123,4 +123,4 @@ PUT classifier_nested
     }
   }
 }
-'''
+```
