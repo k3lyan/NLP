@@ -6,7 +6,7 @@ Is Elasticsearch able to return the expected document in the top 5 (out of 47 po
 ## Risk Detection:
 * Indexing e-mails exchanged during a project with customized mappings and analyzer 
 * Querying these e-mails with risk sentences from the risk register of this project
-## Requirements(06/18):
+## Requirements (06/18):
 * Elastisearch 5.6.x: highest ES version supporting the most different OS.
 * Logstash 5.6: same, plus supports all the debian systems
 * Java compatibility: 
