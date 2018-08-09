@@ -1,15 +1,19 @@
-# NESTED OBJECTS STRUCTURE 
-## 1) CREATE THE INDEX WITH KIBANA
-Use case: classified sentences from client reports     
-if the index 'classifier' was already existing be sure to delete it before creating a new one:    
-`DELETE classifier`     
-### Settings: 
-Here you create the analyzer (see the all list of analyzers in the analyzer_list.txt file)   
-### Mappings: 
-Each document will contains sub-object, 1 per sentence. 
-Customed analyzer mapped to the text of the sentence.
+## First approach: json converter
+Build a json object to upload the classifier doc to Elasticsearch through Kibana.
 
-`PUT classifier
+## Second approach: nested objects 
+### 1) Create the index with Kibana
+Use case: classified sentences from client reports                 
+if the index 'classifier' was already existing be sure to delete it before creating a new one:              
+`DELETE classifier`     
+#### Settings: 
+Here you create the analyzer (see the all list of analyzers in the analyzer_list.txt file)   
+#### Mappings: 
+Each document will contains sub-object, 1 per sentence. 
+Customed analyzer mapped to the text of the sentence.            
+          
+PUT classifier        
+```json
 {
   "settings": {
     "analysis": {
@@ -53,13 +57,14 @@ Customed analyzer mapped to the text of the sentence.
     }
   }
 }`           
-
-## 2) POPULATE
-### Id by id:
-From Kibana console, you can populate manually by adding the documents one by one (not really efficient)
-`PUT sentences/reports/111
+```
+### 2) Populate
+#### Id by id:
+From Kibana console, you can populate manually by adding the documents one by one (not really efficient)            
+PUT sentences/reports/111                       
+```json
 {
-	"title": "111"
+	"title": "111",
 	"sentences": [
 		{
 		  "text":"Je commence ce rapport par blablabla.",
@@ -67,33 +72,34 @@ From Kibana console, you can populate manually by adding the documents one by on
 		  "proba":0.003125
 		},
 		{
-		  "text" : "Puis vient la 2ème phrase de mon rapport, tel un leader."
-		  "skill" : "Leadership",
-		  "proba" : 0.001231
+		  "text":"Puis vient la 2ème phrase de mon rapport, tel un leader.",
+		  "skill":"Leadership",
+		  "proba":0.001231
 		},
 		...
 		{
-		  "text" : "Ainsi nous arrivons à la fin de mon argumentaire."
-		  "skill" : "Argumentation",
-		  "proba" : 0.00211
+		  "text":"Ainsi nous arrivons à la fin de mon argumentaire.",
+		  "skill":"Argumentation",
+		  "proba":0.00211
 		}
 	]
 }`
-
-### _bulk API:
+```
+#### \_bulk API:
 Add several documents at the same time
 --> generate a json files matching your data: json_converter.py.
 --> Type in a terminal (in the same directory containing your json file data.json):   
 `$ curl -H "Content-Type:application/json" -XPOST "http://localhost:9200/thales/report_sentences/_bulk?pretty" --data-binary "@data.json"`
 
-## 3) ANALYZERS
-Install icu-analysis plugin:     
+### 3) Analyzers                
+Install icu-analysis plugin:               
 `$ sudo bin/elasticsearch-plugin install analysis-icu`
 
-## 4) SEARCH & AGGREGATIONS
+### 4) Search & aggregations
 Full search example with aggregation, highlight, filter...
           
-GET /_search
+GET /\_search               
+```json
 {
   "query": {
     "bool": {
@@ -157,9 +163,5 @@ GET /_search
     }
   ]
 }
-
-## 5) AGGREGATIONS
-## 6) VISUALIZATIONS
-## 7) MACHINE LEARNING
-
+```
 
