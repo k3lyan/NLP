@@ -2,10 +2,10 @@
 This repository aims at saving my work in the construction of a modulable Natural Langage Processing Pipeline (from raw inputs to visualizations). It is shaped according to 4 main sub-directories. Each of this sub-directory represents a block of the NLP pipeline. The goal of it is to be able to navigate and test easily different configurations by varying the algorithms used in the pipeline.  
 
 **********************************************************************************************************
-Preprocess Data  |  Mathematically modelize text  |  Explore the representation  |   Visualize the results                                          
+Preprocess Data  |  Train a model  |  Explore the representation  |   Visualize the results                                          
 **********************************************************************************************************
     
-## PREPROCESING 
+## PREPROCESSING 
 * get the data    
 * extract to raw text    
 * tokenization    
@@ -13,7 +13,7 @@ Preprocess Data  |  Mathematically modelize text  |  Explore the representation 
 * dataBase/ search web engine (Elasticsearch, neo4j,...)    
 * labelisation 
 * ...    
-## MODELIZATION
+## TRAINING MODEL
 * language models (QRNN, bi-LSTM, ...)      
 * CountVectorizer, TFIDF,...     
 * ...     
