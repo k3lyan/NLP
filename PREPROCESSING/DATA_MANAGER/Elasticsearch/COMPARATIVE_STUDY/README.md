@@ -1,6 +1,6 @@
 # Comparative study
 ## Goal:
-Look at Elasticsearch performances in terms as a "classifier" (through its internal ranking).
+Look at Elasticsearch performances in terms of "classifier" (through its internal ranking).
 ### The original classifier:
 Its goal was to classify sentences from project manager reports (172 reports), among 47 management skills described by a textual reference, the IPMA.
 IPMA and reports have been embedded as vectors and cosine similarity was applied between them, giving for each sentence of each report a 'management skill label', if the score was over an arbitrary threshold (if not the label was 'no skill represented').
