@@ -1,5 +1,5 @@
 # MINI-TUTO ES PYTHON API
-## Filter thhe answer
+## Filter the answer
 * The filter_path parameter is used to reduce the response returned by elasticsearch. For example, to only return _id and _type, do:
 	
 	`es.search(index='test-index', filter_path=['hits.hits._id', 'hits.hits._type'])`
