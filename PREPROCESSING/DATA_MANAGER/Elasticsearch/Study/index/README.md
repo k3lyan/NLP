@@ -4,7 +4,7 @@ The customed analyzers varied during the tests of the study to find the more opt
 
 ## IPMA
 PUT ipma        
-'''json
+'''
 {
   "settings":{
     "analysis": {
